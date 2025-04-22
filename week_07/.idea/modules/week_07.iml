@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="root [file:/C:/Users/siris/OneDrive%20-%20LUT%20University/Study/Functional%20programming/week_07/week_07/]" external.linked.project.path="$MODULE_DIR$/../.." external.root.project.path="$MODULE_DIR$/../.." external.system.id="SBT" type="JAVA_MODULE" version="4">
+  <component name="DisplayModuleName">
+    <option name="name" value="week_07" />
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_21" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../..">
+      <excludeFolder url="file://$MODULE_DIR$/../../target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="week_07.main" />
+    <orderEntry type="module" module-name="week_07.test" production-on-test="" />
+  </component>
+</module>
