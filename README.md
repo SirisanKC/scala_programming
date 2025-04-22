@@ -1,5 +1,3 @@
-# What I Learned and What I Did in the Functional Programming in Scala Course
-
 ## Overview
 Throughout this course, I engaged with various fundamental concepts of functional programming using Scala. Each exercise provided practical experience and deepened my understanding of the principles and techniques that define functional programming.
 
